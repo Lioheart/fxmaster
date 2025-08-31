@@ -155,5 +155,9 @@
   "FXMASTER.Yes": "Tak",
   "FXMASTER.No": "Nie",
   "FXMASTER.ParticleEffectFireflies": "Świetliki",
-  "FXMASTER.ParticleEffectFirefliesWeatherEffectsConfig": "Świetliki (FXMaster)"
+  "FXMASTER.ParticleEffectFirefliesWeatherEffectsConfig": "Świetliki (FXMaster)",
+  "FXMASTER.ParticleEffectMagicCrystals": "Magiczne kryształy",
+  "FXMASTER.ParticleEffectMagicCrystalsWeatherEffectsConfig": "Magiczne kryształy (FXMaster)",
+  "FXMASTER.Spin": "Szybkość obrotu",
+  "FXMASTER.Glow": "Blask"
 }
